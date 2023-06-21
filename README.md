@@ -27,11 +27,15 @@
 
 Ionic offers an effective method for mobile page navigation. However, its intuitiveness on the desktop platform is lacking. This library resolves this issue by facilitating page navigation on the desktop, while preserving the standard Ionic navigation for mobile devices.
 
+
 ## Inspiration
 
 `umn-page` is inspired by how apple handles page navigation in its app while on `mobile` and `desktop`.
 
 - On mobile, the pages are pushed on top of each other.
+
+- ![DEMO](https://github.com/umun-tech/page/assets/73812714/88fe7aa4-d5bb-4d68-a390-0d2f82588d81)
+  
 - On desktop, the pages are shown side by side.
 
 ## Installation
