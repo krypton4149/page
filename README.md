@@ -34,7 +34,7 @@ Ionic offers an effective method for mobile page navigation. However, its intuit
 
 - On mobile, the pages are pushed on top of each other.
 
-- ![DEMO](https://github.com/umun-tech/page/assets/73812714/88fe7aa4-d5bb-4d68-a390-0d2f82588d81)width=100px, height=50px
+- ![DEMO](https://github.com/umun-tech/page/assets/73812714/88fe7aa4-d5bb-4d68-a390-0d2f82588d81)
   
 - On desktop, the pages are shown side by side.
 
